@@ -1,0 +1,5 @@
+[
+  {"tactic":"Execution","technique":"T1059","score":80},
+  {"tactic":"Execution","technique":"T1059","score":70},
+  {"tactic":"Credential Access","technique":"T1003","score":60}
+]
