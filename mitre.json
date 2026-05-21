@@ -1,5 +1,7 @@
 [
-  {"Execution":"T1059", "score": 10},
-  {"Execution":"T1058", "score": 10},
-  {"Credential Access":"T1003", "score": 20}
+  {"Execution":"T1197", "Name": "BITS Jobs"},
+  {"Execution":"T1651", "Name": "Cloud Administration Command"},
+  {"Credential Access":"T1557", "Name": "Adversary-in-the-Middle"},
+  {"Credential Access":"T1557.002", "Name": "Adversary-in-the-Middle: ARP Cache Poisoning"},
+  {"Exfiltration":"T1011", "Name": "Exfiltration Over Other Network Medium"}
 ]
