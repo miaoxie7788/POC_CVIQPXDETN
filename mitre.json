@@ -1,5 +1,5 @@
 [
-  {"Execution":"T1059"},
-  {"Execution":"T1058"},
-  {"Credential Access":"T1003"}
+  {"Execution":"T1059", "score": 10},
+  {"Execution":"T1058", "score": 10},
+  {"Credential Access":"T1003", "score": 20}
 ]
