@@ -1,0 +1,18 @@
+[
+    {
+        "Execution": "T1059.001",
+        "Name": "Powershell"
+    },
+    {
+        "Execution": "T1059.007",
+        "Name": "Javascript"
+    },
+    {
+        "Persistence": "T1574",
+        "Name": "Hijack Execution Flow"
+    },
+    {
+        "Initial-access": "T1566.002",
+        "Name": "Spearphishing Link"
+    }
+]
