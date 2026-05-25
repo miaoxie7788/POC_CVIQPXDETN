@@ -1,0 +1,18 @@
+[
+    {
+        "metric": "Techniques #",
+        "number": 4
+    },
+    {
+        "metric": "Detection Strategy #",
+        "number": 4
+    },
+    {
+        "metric": "Analytics #",
+        "number": 11
+    },
+    {
+        "metric": "Sigma Rules #",
+        "number": 161
+    }
+]
