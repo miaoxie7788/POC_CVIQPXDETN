@@ -13,6 +13,8 @@
     },
     {
         "metric": "Sigma Rules #",
-        "number": 161
+        "experimental": 6,
+        "stable": 2,
+        "test": 153
     }
 ]
