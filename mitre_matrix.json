@@ -1,18 +1,70 @@
 [
     {
-        "Execution": "T1059.001",
-        "Name": "Powershell"
+        "Resource-development": "T1583.001",
+        "Name": "Domains"
     },
     {
-        "Execution": "T1059.007",
-        "Name": "Javascript"
+        "Execution": "T1059",
+        "Name": "Command And Scripting Interpreter"
     },
     {
-        "Persistence": "T1574",
-        "Name": "Hijack Execution Flow"
+        "Defense-evasion": "T1140",
+        "Name": "Deobfuscate/Decode Files Or Information"
+    },
+    {
+        "Command-and-control": "T1568",
+        "Name": "Dynamic Resolution"
+    },
+    {
+        "Defense-evasion": "T1027.002",
+        "Name": "Software Packing"
+    },
+    {
+        "Defense-evasion": "T1027.003",
+        "Name": "Steganography"
+    },
+    {
+        "Defense-evasion": "T1027.013",
+        "Name": "Encrypted/Encoded File"
+    },
+    {
+        "Resource-development": "T1588.001",
+        "Name": "Malware"
+    },
+    {
+        "Resource-development": "T1588.002",
+        "Name": "Tool"
+    },
+    {
+        "Initial-access": "T1566.001",
+        "Name": "Spearphishing Attachment"
     },
     {
         "Initial-access": "T1566.002",
         "Name": "Spearphishing Link"
+    },
+    {
+        "Resource-development": "T1608.001",
+        "Name": "Upload Malware"
+    },
+    {
+        "Defense-evasion": "T1218",
+        "Name": "System Binary Proxy Execution"
+    },
+    {
+        "Execution": "T1204.001",
+        "Name": "Malicious Link"
+    },
+    {
+        "Execution": "T1204.002",
+        "Name": "Malicious File"
+    },
+    {
+        "Impact": "T1486",
+        "Name": "Data Encrypted For Impact"
+    },
+    {
+        "Command-and-control": "T1102",
+        "Name": "Web Service"
     }
 ]
