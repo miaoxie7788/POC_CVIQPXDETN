@@ -1,0 +1,10 @@
+[
+    {
+        "Persistence": "T1098",
+        "Name": "Account Manipulation"
+    },
+    {
+        "Persistence": "T1037.004",
+        "Name": "Rc Scripts"
+    }
+]
