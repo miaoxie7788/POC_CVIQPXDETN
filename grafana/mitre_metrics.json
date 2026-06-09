@@ -1,10 +1,20 @@
 [
     {
-        "Persistence": "T1098",
-        "Name": "Account Manipulation"
+        "metric": "Techniques #",
+        "number": 2
     },
     {
-        "Persistence": "T1037.004",
-        "Name": "Rc Scripts"
+        "metric": "Detection Strategy #",
+        "number": 2
+    },
+    {
+        "metric": "Analytics #",
+        "number": 10
+    },
+    {
+        "metric": "Sigma Rules #",
+        "experimental": 6,
+        "stable": 6,
+        "test": 22
     }
 ]
