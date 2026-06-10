@@ -1,20 +1,20 @@
 [
     {
         "metric": "Techniques #",
-        "number": 17
+        "number": 14
     },
     {
         "metric": "Detection Strategy #",
-        "number": 12
+        "number": 11
     },
     {
         "metric": "Analytics #",
-        "number": 63
+        "number": 56
     },
     {
         "metric": "Sigma Rules #",
-        "experimental": 102,
-        "stable": 32,
-        "test": 772
+        "experimental": 54,
+        "stable": 19,
+        "test": 510
     }
 ]

@@ -8,8 +8,12 @@
         "Name": "Valid Accounts"
     },
     {
-        "Initial-access": "T1190",
-        "Name": "Exploit Public-Facing Application"
+        "Credential-access": "T1110",
+        "Name": "Brute Force"
+    },
+    {
+        "Execution": "T1204",
+        "Name": "User Execution"
     },
     {
         "Execution": "T1059",
@@ -24,20 +28,20 @@
         "Name": "Remote Desktop Protocol"
     },
     {
-        "Impact": "T1486",
-        "Name": "Data Encrypted For Impact"
+        "Discovery": "T1046",
+        "Name": "Network Service Discovery"
     },
     {
-        "Discovery": "T1526",
-        "Name": "Cloud Service Discovery"
+        "Credential-access": "T1528",
+        "Name": "Steal Application Access Token"
     },
     {
-        "Credential-access": "T1539",
-        "Name": "Steal Web Session Cookie"
+        "Execution": "T1059",
+        "Name": "Command And Scripting Interpreter"
     },
     {
-        "Collection": "T1005",
-        "Name": "Data From Local System"
+        "Defense-evasion": "T1562",
+        "Name": "Impair Defenses"
     },
     {
         "Initial-access": "T1566",
@@ -48,23 +52,7 @@
         "Name": "Valid Accounts"
     },
     {
-        "Execution": "T1059",
-        "Name": "Command And Scripting Interpreter"
-    },
-    {
-        "Initial-access": "T1190",
-        "Name": "Exploit Public-Facing Application"
-    },
-    {
-        "Defense-evasion": "T1562",
-        "Name": "Impair Defenses"
-    },
-    {
         "Lateral-movement": "T1021",
         "Name": "Remote Services"
-    },
-    {
-        "Defense-evasion": "T1078",
-        "Name": "Valid Accounts"
     }
 ]
