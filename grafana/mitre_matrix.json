@@ -1,10 +1,74 @@
 [
     {
-        "Persistence": "T1098",
-        "Name": "Account Manipulation"
+        "Exfiltration": "T1048",
+        "Name": "Exfiltration Over Alternative Protocol"
     },
     {
-        "Persistence": "T1037.004",
-        "Name": "Rc Scripts"
+        "Exfiltration": "T1048.003",
+        "Name": "Exfiltration Over Unencrypted Non-C2 Protocol"
+    },
+    {
+        "Exfiltration": "T1048.001",
+        "Name": "Exfiltration Over Symmetric Encrypted Non-C2 Protocol"
+    },
+    {
+        "Exfiltration": "T1567",
+        "Name": "Exfiltration Over Web Service"
+    },
+    {
+        "Exfiltration": "T1567.002",
+        "Name": "Exfiltration To Cloud Storage"
+    },
+    {
+        "Persistence": "T1137.005",
+        "Name": "Outlook Rules"
+    },
+    {
+        "Collection": "T1114",
+        "Name": "Email Collection"
+    },
+    {
+        "Collection": "T1114.001",
+        "Name": "Local Email Collection"
+    },
+    {
+        "Collection": "T1114.002",
+        "Name": "Remote Email Collection"
+    },
+    {
+        "Collection": "T1560",
+        "Name": "Archive Collected Data"
+    },
+    {
+        "Persistence": "T1137.005",
+        "Name": "Outlook Rules"
+    },
+    {
+        "Exfiltration": "T1048",
+        "Name": "Exfiltration Over Alternative Protocol"
+    },
+    {
+        "Exfiltration": "T1048",
+        "Name": "Exfiltration Over Alternative Protocol"
+    },
+    {
+        "Collection": "T1560",
+        "Name": "Archive Collected Data"
+    },
+    {
+        "Exfiltration": "T1048",
+        "Name": "Exfiltration Over Alternative Protocol"
+    },
+    {
+        "Collection": "T1560",
+        "Name": "Archive Collected Data"
+    },
+    {
+        "Exfiltration": "T1048",
+        "Name": "Exfiltration Over Alternative Protocol"
+    },
+    {
+        "Exfiltration": "T1567",
+        "Name": "Exfiltration Over Web Service"
     }
 ]
