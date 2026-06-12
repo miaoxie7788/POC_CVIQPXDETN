@@ -8,10 +8,6 @@
         "Name": "Exfiltration Over Unencrypted Non-C2 Protocol"
     },
     {
-        "Exfiltration": "T1048.001",
-        "Name": "Exfiltration Over Symmetric Encrypted Non-C2 Protocol"
-    },
-    {
         "Exfiltration": "T1567",
         "Name": "Exfiltration Over Web Service"
     },
@@ -20,12 +16,8 @@
         "Name": "Exfiltration To Cloud Storage"
     },
     {
-        "Persistence": "T1137.005",
-        "Name": "Outlook Rules"
-    },
-    {
-        "Collection": "T1114",
-        "Name": "Email Collection"
+        "Collection": "T1114.003",
+        "Name": "Email Forwarding Rule"
     },
     {
         "Collection": "T1114.001",
@@ -36,39 +28,11 @@
         "Name": "Remote Email Collection"
     },
     {
-        "Collection": "T1560",
-        "Name": "Archive Collected Data"
+        "Collection": "T1074",
+        "Name": "Data Staged"
     },
     {
-        "Persistence": "T1137.005",
-        "Name": "Outlook Rules"
-    },
-    {
-        "Exfiltration": "T1048",
-        "Name": "Exfiltration Over Alternative Protocol"
-    },
-    {
-        "Exfiltration": "T1048",
-        "Name": "Exfiltration Over Alternative Protocol"
-    },
-    {
-        "Collection": "T1560",
-        "Name": "Archive Collected Data"
-    },
-    {
-        "Exfiltration": "T1048",
-        "Name": "Exfiltration Over Alternative Protocol"
-    },
-    {
-        "Collection": "T1560",
-        "Name": "Archive Collected Data"
-    },
-    {
-        "Exfiltration": "T1048",
-        "Name": "Exfiltration Over Alternative Protocol"
-    },
-    {
-        "Exfiltration": "T1567",
-        "Name": "Exfiltration Over Web Service"
+        "Execution": "T1059",
+        "Name": "Command And Scripting Interpreter"
     }
 ]
