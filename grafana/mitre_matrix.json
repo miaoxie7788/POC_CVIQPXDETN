@@ -1,58 +1,10 @@
 [
     {
-        "Initial-access": "T1566",
-        "Name": "Phishing"
+        "Persistence": "T1098",
+        "Name": "Account Manipulation"
     },
     {
-        "Defense-evasion": "T1078",
-        "Name": "Valid Accounts"
-    },
-    {
-        "Credential-access": "T1110",
-        "Name": "Brute Force"
-    },
-    {
-        "Execution": "T1204",
-        "Name": "User Execution"
-    },
-    {
-        "Execution": "T1059",
-        "Name": "Command And Scripting Interpreter"
-    },
-    {
-        "Defense-evasion": "T1562.001",
-        "Name": "Disable Or Modify Tools"
-    },
-    {
-        "Lateral-movement": "T1021.001",
-        "Name": "Remote Desktop Protocol"
-    },
-    {
-        "Discovery": "T1046",
-        "Name": "Network Service Discovery"
-    },
-    {
-        "Credential-access": "T1528",
-        "Name": "Steal Application Access Token"
-    },
-    {
-        "Execution": "T1059",
-        "Name": "Command And Scripting Interpreter"
-    },
-    {
-        "Defense-evasion": "T1562",
-        "Name": "Impair Defenses"
-    },
-    {
-        "Initial-access": "T1566",
-        "Name": "Phishing"
-    },
-    {
-        "Defense-evasion": "T1078",
-        "Name": "Valid Accounts"
-    },
-    {
-        "Lateral-movement": "T1021",
-        "Name": "Remote Services"
+        "Persistence": "T1037.004",
+        "Name": "Rc Scripts"
     }
 ]
