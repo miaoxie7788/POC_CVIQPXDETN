@@ -1,38 +1,50 @@
 [
     {
-        "Exfiltration": "T1048",
-        "Name": "Exfiltration Over Alternative Protocol"
+        "Command-and-control": "T1071",
+        "Name": "Application Layer Protocol"
     },
     {
-        "Exfiltration": "T1048.003",
-        "Name": "Exfiltration Over Unencrypted Non-C2 Protocol"
+        "Discovery": "T1217",
+        "Name": "Browser Information Discovery"
     },
     {
-        "Exfiltration": "T1567",
-        "Name": "Exfiltration Over Web Service"
+        "Persistence": "T1543",
+        "Name": "Create Or Modify System Process"
     },
     {
-        "Exfiltration": "T1567.002",
-        "Name": "Exfiltration To Cloud Storage"
+        "Defense-evasion": "T1678",
+        "Name": "Delay Execution"
     },
     {
-        "Collection": "T1114.003",
-        "Name": "Email Forwarding Rule"
+        "Initial-access": "T1189",
+        "Name": "Drive-By Compromise"
     },
     {
-        "Collection": "T1114.001",
-        "Name": "Local Email Collection"
+        "Command-and-control": "T1573",
+        "Name": "Encrypted Channel"
     },
     {
-        "Collection": "T1114.002",
-        "Name": "Remote Email Collection"
+        "Privilege-escalation": "T1546",
+        "Name": "Event Triggered Execution"
     },
     {
-        "Collection": "T1074",
-        "Name": "Data Staged"
+        "Execution": "T1203",
+        "Name": "Exploitation For Client Execution"
     },
     {
-        "Execution": "T1059",
-        "Name": "Command And Scripting Interpreter"
+        "Persistence": "T1574",
+        "Name": "Hijack Execution Flow"
+    },
+    {
+        "Execution": "T1559",
+        "Name": "Inter-Process Communication"
+    },
+    {
+        "Defense-evasion": "T1027",
+        "Name": "Obfuscated Files Or Information"
+    },
+    {
+        "Defense-evasion": "T1055",
+        "Name": "Process Injection"
     }
 ]

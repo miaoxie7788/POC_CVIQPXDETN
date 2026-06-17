@@ -1,20 +1,34 @@
 [
     {
-        "metric": "Techniques #",
-        "number": 9
+        "metric": "Coverage Score",
+        "number": 46.95652173913043
     },
     {
-        "metric": "Detection Strategy #",
-        "number": 9
+        "metric": "Log Sources #",
+        "number": 28
     },
     {
-        "metric": "Analytics #",
-        "number": 36
+        "metric": "Mitre Techniques #",
+        "number": 12
+    },
+    {
+        "metric": "Mitre Techniques Available #",
+        "number": 4
+    },
+    {
+        "metric": "Mitre Use Case #",
+        "number": 46
+    },
+    {
+        "metric": "Mitre Use Case Available #",
+        "number": 5
     },
     {
         "metric": "Sigma Rules #",
-        "experimental": 17,
-        "stable": 3,
-        "test": 129
+        "number": 90
+    },
+    {
+        "metric": "Sigma Rules Available #",
+        "number": 87
     }
 ]
