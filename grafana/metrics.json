@@ -1,7 +1,7 @@
 [
     {
         "metric": "Coverage Score",
-        "number": 49.73930240920532
+        "number": 77.07209636821287
     },
     {
         "metric": "Log Sources #",
@@ -9,11 +9,11 @@
     },
     {
         "metric": "Mitre Techniques #",
-        "number": 8
+        "number": 11
     },
     {
         "metric": "Mitre Techniques Available #",
-        "number": 5
+        "number": 10
     },
     {
         "metric": "Mitre Use Case #",
